@@ -12,6 +12,6 @@ SELECT
     guest_count,
     rate_plan_code,
     daily_rate_amount,
-    total_amount
+    total_amount,
     e_mail
 FROM stg_reservations;
